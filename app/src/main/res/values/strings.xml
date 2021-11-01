@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">practice1</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">Let\'s find out \n your love type!</string>
+    <string name="question">there were favorite flower\n in the flower base, \n As time goes, the flowers \n have all withhered.\nwhat are you going to do with that?</string>
+    <string name="option1">there it away</string>
+    <string name="option2">water the flower</string>
+    <string name="option3">cut it off with scissors</string>
+    <string name="option4">make them as dried flower</string>
+    <string name="result_title">you are a quitter!</string>
+    <string name="result">May be you give up on love too easily..</string>
+    <string name="DEFAULT_SIGN_IN">825251183792-bee8fcnfe6oj6ub2n6f5gf8cqvhgoni7.apps.googleusercontent.com</string>
+</resources>
