@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
     private val binding get() = mBinding!!
     lateinit var navController :NavController
 
-    override fun onCreate(savedInstanceState: Bunddle?) {
+    override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         // 뷰 바인딩

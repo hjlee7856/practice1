@@ -70,7 +70,7 @@ class LoginFragment : Fragment(), View.OnClickListener{
     // 로그아웃하지 않을 시 자동 로그인
     override fun onStart() {
         super.onStart()
-        moveListFragment(auth?.currentUser)
+//        moveListFragment(auth?.currentUser)
     }
 
     override fun onDestroyView() {
